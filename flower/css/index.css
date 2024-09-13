@@ -1,0 +1,196 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-decoration: none;
+    max-width: 1280px;
+    max-height: 1080px;
+    
+}
+body{
+    background-image: url(../img/bg-main.jpg);
+    background-repeat: no-repeat;
+}    
+
+
+.header{
+    display: flex;
+    align-items: center;
+    padding-top: 42px;
+    padding-left: 52px;
+    max-width: 1168px;
+    
+}
+.conteiner{
+    display: flex;
+    align-items: center; 
+    
+} 
+.header.w{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    
+    
+}
+.header_header{
+    display: flex;
+    align-items: center;
+    
+}
+.search{
+    padding-left: 822px;
+    
+}
+.cart{
+    padding-left: 50px;
+}
+.sign1{
+    padding-left: 60px;
+    font-size: 14px;
+    color: #196963;
+}
+.sign2{
+    margin-left: 60px;
+    padding: 10px 5px;
+    font-size: 14px;
+    color: #ffffff;
+    background-color: #196963;
+    
+}
+.main_title{
+    padding-left: 684px;
+    padding-top: 148px;
+}
+
+.text1_1{
+    font-size: 68px;
+    color: #196963;
+}
+
+.text2_2{
+    font-size: 18px;
+}
+
+.text3_3{
+    color: #333;
+    font-size: 24px;
+}
+.text4_4{
+    color: #196963;
+    font-size: 32px;
+}
+.main_title2{
+    padding-top: 148px;
+
+}
+
+.title1{
+    color: #333333;
+    font-size: 24px;
+    padding-left: 49px;
+}
+
+.title2{
+    color: #196963;
+    font-size: 32px;
+    padding-right: 84px;
+}
+.main_title3{
+    display: flex;
+    padding-left: 500px;
+}   
+
+.log{
+    text-align: center;
+    font-size: 24px;
+    margin-left: 128px;
+    padding:10px 20px;
+    color: #333;
+    background-color: #196963;
+}
+.log2{
+    font-size: 32px;
+    color: aliceblue;
+    padding-left: 43px;
+    padding: 0px 20px;
+    background-color: #196963;
+}
+
+.icon2{
+    padding-top: 144px;
+    display: flex;
+    align-items: center;
+    padding-left: 72px;
+    justify-content: space-between;
+}
+.track{
+    color: #196963;
+}
+
+.great{
+    color: #196963;
+    padding-left: 226px;
+}
+
+.plant{
+    color: #196963;
+    padding-left: 226px;
+}
+
+.price{
+    color: #196963;
+    padding-left: 226px;
+}
+
+.track1{
+    color: #196963;
+    padding-left: 30px;
+}
+
+.great1{
+    color: #196963;
+    padding-left: 30px;
+}
+
+.plant1{
+    color: #196963;
+    padding-left: 30px;
+}
+
+.price1{
+    color: #196963;
+    padding-left: 30px;
+}
+.icon_text{
+    display: flex;
+    align-items: center;
+}
+.section_text1{
+    display: flex;
+    padding-left: 72px;
+
+}
+.section_text2{
+    display: flex;
+    padding-left: 40px;
+
+}
+.section_text3{
+    display: flex;
+    padding-left: 40px;
+
+}
+.section_text4{
+    display: flex;
+    padding-left: 40px;
+
+}
+.spection_spam{
+    display: flex;
+    
+    
+
+}
+
+
+
